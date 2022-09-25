@@ -20,5 +20,34 @@ input[type="button"]{
 table{
    height: 30rem;
     position: absolute;
-    left: 40%;
+    left: 38%;
 }
+.big{
+    height: 30px;
+}
+.container{
+    border: 1px solid rgb(255, 255, 255);
+    height: 570px;
+    width: 444px;
+    background-color: cadetblue;
+    border-radius: 2% 2% 2% 2%;
+}
+input[type=button] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
