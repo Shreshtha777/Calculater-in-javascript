@@ -3,6 +3,7 @@ calc{
 }
 h1{
     text-align: center;
+    color: aliceblue;
 }
 input[type="text"]{
     text-align: right;
